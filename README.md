@@ -21,8 +21,9 @@ Built a regression model to predict used car selling prices based on features li
 Predicted product sales based on advertising spend across TV, Radio, and Newspaper channels, and identified which channel drives the most sales. Achieved 98% R² accuracy using Random Forest.
 
 
-Features
-  Data cleaning & preprocessing
-  Exploratory Data Analysis (EDA) with visualizations
-  Machine Learning model training & evaluation
-  Business/policy insights from each analysis
+Features:
+
+    1.Data cleaning & preprocessing
+    2.Exploratory Data Analysis (EDA) with visualizations
+    3.Machine Learning model training & evaluation
+    4.Business/policy insights from each analysis
