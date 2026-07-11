@@ -19,15 +19,10 @@ Analyzed unemployment rate data across Indian states (2019-2020), studied the im
 Built a regression model to predict used car selling prices based on features like present price, car age, kilometers driven, and fuel type. Achieved 96% R² accuracy using Random Forest.
 4. Sales Prediction using Python
 Predicted product sales based on advertising spend across TV, Radio, and Newspaper channels, and identified which channel drives the most sales. Achieved 98% R² accuracy using Random Forest.
+
+
 Features
-Data cleaning & preprocessing
-Exploratory Data Analysis (EDA) with visualizations
-Machine Learning model training & evaluation
-Business/policy insights from each analysis
-How to Run
-Clone this repository
-Install required libraries: pip install pandas numpy matplotlib seaborn scikit-learn notebook
-Open any notebook with jupyter notebook
-Run all cells (Run → Run All Cells)
-Author
-Priya
+  Data cleaning & preprocessing
+  Exploratory Data Analysis (EDA) with visualizations
+  Machine Learning model training & evaluation
+  Business/policy insights from each analysis
